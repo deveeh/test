@@ -1,0 +1,18 @@
+#tovars {
+    flex: 1 0 70%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
+
+.brend {
+    padding: 15px;
+    flex: 0 0 calc( 25% - 30px );
+    display: flex;
+    flex-direction: row;
+}
+
+img {
+    border: 2px solid #2F6EA5;
+}
